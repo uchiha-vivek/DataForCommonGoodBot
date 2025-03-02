@@ -1,11 +1,11 @@
-// generateQuery.js
+
 const { GoogleGenerativeAI } = require('@google/generative-ai');
 const dotenv = require('dotenv')
 dotenv.config()
+credential = process.env.GEMINI
 
-console.log(credential)
-// Set up Google Generative AI client with your API key
-const genAI = new GoogleGenerativeAI(credential); // Replace with your actual API key
+
+const genAI = new GoogleGenerativeAI(credential); 
 const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash' });
 
 async function generateQuery(cohortDescription) {

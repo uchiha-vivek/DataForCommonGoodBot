@@ -11,6 +11,11 @@ This project aims to develop a chatbot powered by ChatGPT or another large langu
 This is the high level understanding .
 <img src="images/arch.png"/>
 
+## RESPONSE 
+This is the resposne from the server . 
+<img src="images/post1.png"/>
+
+
 ## Appendix
 
 1. The sample data is created in items.json 
