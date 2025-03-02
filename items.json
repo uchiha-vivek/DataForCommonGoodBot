@@ -1,0 +1,25 @@
+
+[
+    {
+      "id": 1,
+      "name": "Diabetic Test Kit",
+      "category": "Health",
+      "price": 15.99,
+      "description": "A test kit for monitoring diabetes."
+    },
+    {
+      "id": 2,
+      "name": "Blood Pressure Monitor",
+      "category": "Health",
+      "price": 45.99,
+      "description": "A device for monitoring blood pressure."
+    },
+    {
+      "id": 3,
+      "name": "Smart Thermometer",
+      "category": "Health",
+      "price": 20.50,
+      "description": "A digital thermometer for accurate temperature readings."
+    }
+  ]
+  
